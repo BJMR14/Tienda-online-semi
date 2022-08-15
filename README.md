@@ -1,2 +1,1 @@
-# Tienda-online-semi
-Pagina de venta online
+Sistema ecommerce Totalmente editable para cualquier tipo de trabajo 
